@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "laboratorni-zadanky": {
+      "hosting": {
+        "sakai-ng": [
+          "laboratorni-zadanky"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "laboratorni-zadanky"
+  }
+}
