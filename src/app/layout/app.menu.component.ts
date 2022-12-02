@@ -18,7 +18,7 @@ export class AppMenuComponent implements OnInit {
                 label: 'Home',
                 items: [
                     { label: 'Dashboard', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
-                    { label: 'Vytvořit žádanku', icon: 'pi pi-fw pi-plus-circle', routerLink: ['/'] }
+                    { label: 'Nový zákazník', icon: 'pi pi-fw pi-plus-circle', routerLink: ['/newcustomer'] }
                 ]
             },
             {
